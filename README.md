@@ -1,6 +1,10 @@
 # GCI 2019
 
-The following are the tasks completed by me in GCI 2019: ( **Task Count = 28** )
+List of all tasks that I completed during Google Code-In 2019
+
+**Total Task:** 28 <br>
+**Begginers task:** 2
+
 - [Elaborate Flip Flop Interaction](https://codein.withgoogle.com/archive/2019/t/5753579718049792/)
 - [Add info about JK Master Slave flip flop in Interactive Book](https://codein.withgoogle.com/archive/2019/t/6018576280977408/)
 - [Add info about Race Around condition in Interactive Book](https://codein.withgoogle.com/archive/2019/t/4998787467051008/)
