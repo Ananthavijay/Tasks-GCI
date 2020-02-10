@@ -23,7 +23,7 @@ The following are the tasks completed by me in GCI 2019:
 - [Create a youtube video for explaining circuit creation in circuitverse](https://codein.withgoogle.com/archive/2019/t/5773434882097152/)
 - [Create a blogpost that explains circuit creation in circuitverse](https://codein.withgoogle.com/archive/2019/t/5430442753261568/)
 - [Improper Footer redirect](https://codein.withgoogle.com/archive/2019/t/4951896993824768/)
-- [ketch Logos for the CircuitVerse Platform](https://codein.withgoogle.com/archive/2019/t/5697582739750912/)
+- [Sketch Logos for the CircuitVerse Platform](https://codein.withgoogle.com/archive/2019/t/5697582739750912/)
 - [Design a poster for CircuitVerse](https://codein.withgoogle.com/archive/2019/t/6558866658033664/)
 - [Create a Screencast Video and Show How to set up CircuitVerse on Docker](https://codein.withgoogle.com/archive/2019/t/4585921723236352/)
 - [Add types of Asynchronous and Synchronous counter](https://codein.withgoogle.com/archive/2019/t/5740159220318208/)
